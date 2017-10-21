@@ -11,7 +11,7 @@
 }
 
 #head_contents{
-	padding-top: 25px;
+	padding-top: 20px;
 }
 
 a{
@@ -25,4 +25,6 @@ a{
 
 #cover{
 	padding-top: 10%;
+	background-image: url('cover.png');
+	height: 800px;
 }
