@@ -25,9 +25,8 @@ a{
 
 #cover{
 	padding-top: 128px;
-	background-image: url('cover.png');
+	background-image: url('cover2.png');
 	height: 850px;
-	
 }
 
 
@@ -44,4 +43,10 @@ a{
 #butt1:hover {
     background-color: white;
   	color: #025bbb;
+}
+
+#tut_banner{
+	background-color: #025bbb;
+	color: white;
+	height: 12rem;
 }
