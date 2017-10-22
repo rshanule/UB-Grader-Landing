@@ -30,7 +30,7 @@ a{
 }
 
 
-#butt1 {
+#butt1, #butt2 {
 	background-color: #025bbb;
     color: white; 
     border: 2px solid #025bbb;
@@ -40,7 +40,7 @@ a{
     padding: 16px 32px;
 }
 
-#butt1:hover {
+#butt1:hover, #butt2:hover {
     background-color: white;
   	color: #025bbb;
 }
@@ -49,4 +49,9 @@ a{
 	background-color: #025bbb;
 	color: white;
 	height: 12rem;
+}
+#footer{
+	background-color: #025bbb;
+	color: white;
+	height: 2rem;
 }
