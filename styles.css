@@ -33,7 +33,7 @@ a:hover{
 }
 
 
-#butt1, #butt2 {
+#butt1, #butt2, #butt3 {
 	background-color: #025bbb;
     color: white; 
     border: 2px solid #025bbb;
@@ -43,7 +43,7 @@ a:hover{
     padding: 16px 32px;
 }
 
-#butt1:hover, #butt2:hover {
+#butt1:hover, #butt2:hover, #butt3:hover {
     background-color: white;
   	color: #025bbb;
 }
